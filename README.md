@@ -1,4 +1,4 @@
-# 100 Days of bare metal driver coding
+#bare metal driver coding
 # **Target Hardware:** STM32F407VGT6 (ARM Cortex-M4)
 # Hi i am learning bare metal driver development using stm32f407g-disc1 descovery board and i am doing a 100 days challenge 
 # to master peripheral like GPIO,UART,SPI,I2c . i want to understand the underlying logic deeper to make my foundation solid.
